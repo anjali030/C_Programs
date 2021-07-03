@@ -1,3 +1,4 @@
+// Java Program to find GCD
 import java.util.Scanner;  
 public class FindGCDExample4  
 {  
