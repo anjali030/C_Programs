@@ -1,4 +1,4 @@
-//Java program to sum two numbers
+//Java program to find sum of two numbers
 import java.util.Scanner;  
 public class SumOfNumbers2  
 {  
