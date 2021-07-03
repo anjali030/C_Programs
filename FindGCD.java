@@ -1,8 +1,7 @@
 // Java Program to find GCD
 import java.util.Scanner;  
 public class FindGCDExample4  
-{  
-//private static Scanner sc;  
+{ 
 public static void main(String[] args)   
 {  
 int a, b, gcd = 0;  
